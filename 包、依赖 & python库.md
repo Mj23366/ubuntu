@@ -65,3 +65,13 @@ conda env create -f environment.yml     # 从一个YAML文件中创建环境
 在终端中激活了conda的虚拟环境后，可以直接使用pip或pip3命令来安装、升级或卸载Python库。这些命令将针对当前激活的conda环境进行操作
 
 apt-get、apt和dpkg等命令与系统的软件包管理器相关，并不直接与conda环境关联。
+
+
+
+
+
+
+
+
+
+9.1231654655415131565
