@@ -306,6 +306,12 @@ sudo apt install ros-noetic-navigation
 sudo apt install ros-noetic-costmap-2d
 sudo apt-get install ros-noetic-nav-core
 sudo apt-get install ros-noetic-navigation
+# 可能是我这次在（base）环境中装ros，然后在虚拟环境中编译运行等，很多东西都没装
+pip install empy
+pip install catkin_pkg
+pip install rospkg
+pip install defusedxml
+pip install numpy
 ```
 
 
